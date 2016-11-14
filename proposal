@@ -1,0 +1,17 @@
+Introduction:
+With the ease of access to information via 'the web', tons of data from internet users are in effect being generated daily. Food recipes are no longer tucked in somewhere in 'Grandma's Book of Recipes' but instead food recipes are easily available and can be harnessed by anyone visiting a food recipe website.
+
+The next question to ask is what then do you do with all this collected data? Sure, you could build a portolio of recipes, however, let's think bigger here. What if we applied this user data to grocery stores?
+
+In recent times, grocery stores, make in-house food products such as, cakes, donuts etc to sell to their customers. Whenever I walk into a grocery store, I would see a plethora of food items, most of which haven't been bought because they most likely weren't of appeal to customers. Most of that food gets thrown out which is waste. 
+
+Due to the challenge time restriction and for the sake of simplicity, this analysis is based on holidays in the US. Based on the data collected in this project, we can see high ranking recipe per holiday. Otherwise referring to the food product most customers are likely to purchase during holidays.
+
+Data Source: https://allrecipes.com
+
+Data Process: This data was scraped of allrecipes.com using Pythong. The collected data was further analysed to create a data table also using Python and was exported to R for visualization.
+
+Further Work:
+I plan to ultimately generate a predictive model to automate the process of figuring out highly rated recipes for any given holiday and occasion.
+
+I expect the charts below to speak for themselves.
